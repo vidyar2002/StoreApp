@@ -6,3 +6,7 @@ Note:
 1. This project runs at Java 1.7 or higher
 2. You can pull the StoreApp project to a local folder and then compile and run the PriceCalculator.java in command line
 3. Before running the class, make sure that you change the inventory.properties file with correct location of the input files. Sample files attached in the project path.
+
+Assumption
+
+1. The order of the input data in the CSV should be as in the sample files for the successful execution of the code
